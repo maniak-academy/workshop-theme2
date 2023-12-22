@@ -1,4 +1,4 @@
-module github.com/maniak-academy/maniak-academy-theme
+module github.com/maniak-academy/workshop-theme
 
 
 go 1.19
