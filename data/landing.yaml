@@ -24,8 +24,8 @@ hero:
     alt: "Lotus Docs Logo"
     height: 80px
 
-  title: "Maniak Academy" 
-  subtitle: Welcome to the following Maniak Academy course that focus on learning ***Inftrascutrue Automation** using Terraform and Ansible.
+  title: "Project Xademy" 
+  subtitle: Welcome to the following Project AcademyX course that focus on learning ***Infrastructure Automation** focusing Networking, Security, Service Mesh, K8s, Terraform and Ansible.
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -53,7 +53,7 @@ featureGrid:
   template: feature grid
 
   title: Infrastructure Lab Overview
-  subtitle: The Red Hat Ansible platform is enterprise software for automating and managing IT infrastructure. Ansible is human readable, agentless, and supports hundreds of manufacturers' products.  
+  subtitle: A learning platform focused on an Infrastructure Lab Overview would be designed to provide comprehensive training and education in the domain of IT infrastructure. Here's a detailed description of such a platform
 
   items:
     - title: Ansible
